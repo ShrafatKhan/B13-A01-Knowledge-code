@@ -16,6 +16,9 @@ body{
   border-radius: 5px;
   cursor: pointer;
 }
+button:hover{
+  background-color: black;
+}
 nav{
   display: flex;
   justify-content: space-around;
